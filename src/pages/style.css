@@ -1,0 +1,45 @@
+.image{
+    width: 150px;
+    height: 100px;
+}
+.image_container{
+    width: 150px;
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+    
+}
+.main{
+    padding: 15px;
+}
+.title{
+    font-size:14px;
+    text-align: center;
+}
+.main_container{
+    width: 100%;
+    margin: 50px auto;
+}
+.custom_row{
+    padding: 0 100px;
+}
+.heading{
+    text-align:center;
+    margin-top: 30px;
+}
+.loading{
+    margin-top: 200px;
+    text-align: center;
+}
+.bottom_loading{
+    bottom: 0;
+    position: absolute;
+}
+.center_loading{
+    text-align: center;
+}
+.loading2{
+    margin: 0px 0px 100px 0px;
+    text-align: center;
+}
